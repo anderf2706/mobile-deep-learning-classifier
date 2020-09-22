@@ -4,7 +4,6 @@
     "description": "A very interesting project.",
     "slug": "food-app",
     "privacy": "public",
-    "sdkVersion": "31.0.0",
     "platforms": [
       "ios",
       "android"
@@ -33,10 +32,10 @@
     },
     "android": {
       "package": "com.rsnp.foodclassifier",
-      "versionCode": 2 ,
+      "versionCode": 2,
       "permissions": [
-        "CAMERA"
-        ,"CAMERA_ROLL"
+        "CAMERA",
+        "CAMERA_ROLL"
       ]
     }
   }
